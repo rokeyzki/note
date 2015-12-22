@@ -1,2 +1,3 @@
 #忽略MAC底下的自带目录属性存储文件.DS_Store
 .DS_Store
+.coding-ide
